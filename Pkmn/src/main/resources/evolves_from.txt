@@ -1,0 +1,12 @@
+STAGE1
+Phantump
+60
+Grass
+-
+GRASS/Gentle Slap/10
+FIRE
+-
+1
+Fusion Strike
+E 016/264
+kravchenko/fedor/maksimovich/bsbo-04-23

@@ -1,0 +1,12 @@
+STAGE1
+Trevenant
+120
+GRASS
+E:\pkmn1\src\main\resources\evolves_from.txt
+GRASS/Gentle Slap/40
+FIRE
+-
+COlORLESS
+Fusion Strike
+E 017/264
+kravchenko/fedor/maksimovich/bsbo-04-23
